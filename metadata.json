@@ -1,0 +1,5 @@
+{
+  "name": "Myanmar Weather Forecast",
+  "description": "A bilingual weather forecast application supporting English and Myanmar languages.",
+  "requestFramePermissions": ["geolocation"]
+}
